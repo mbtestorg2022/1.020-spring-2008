@@ -5,6 +5,7 @@ description: Problem set on simulating particulate emissions from a single vehic
   model to visualize the particulate plume and to compute atmospheric concentrations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/fe47f90baff48d6f7888ee45a71d647c_assn5.pdf
 file_type: application/pdf
+parent_uid: c170b976-320f-9f6e-5ebf-dee2993a7d31
 resourcetype: Document
 title: "Problem Set 5 \u2013 Particulate transport"
 uid: fe47f90b-aff4-8d6f-7888-ee45a71d647c

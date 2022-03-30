@@ -44,7 +44,7 @@ Problem set 3
 
 Thermal analysis for a small house ([PDF]({{< baseurl >}}/resources/assn3))
 
-Meterological data ([TXT](/courses/civil-and-environmental-engineering/1-020-ecology-ii-engineering-for-sustainability-spring-2008/assignments/harvardmet.txt))
+Meterological data ({{% resource_link "299cee48-7432-f0bc-5ecf-e6a52d993297" "TXT" %}})
 
 
 {{< tdclose >}}
