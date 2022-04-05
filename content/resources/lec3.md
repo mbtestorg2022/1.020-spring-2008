@@ -6,6 +6,11 @@ description: Lecture summary on a model to evaluate impact of source size and mi
   dissolved constitiuents out of system.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/b2397a9e71703ab40218f3304b3d72bf_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 2bb5b4f5-59b6-0424-b61d-8b6f049d1e7c
 resourcetype: Document
 title: Chemical Kinetics, Dechlorination

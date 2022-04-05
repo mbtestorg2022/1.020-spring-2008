@@ -3,6 +3,11 @@ content_type: resource
 description: Practice questions and solutions for the second exam of the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/958a0c71aabb78069b7e7bdb73a7be5f_practice2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 parent_uid: 7f3b7102-ca62-84cd-9724-2560d44984c8
 resourcetype: Document
 title: Exam 2
